@@ -2,6 +2,8 @@
 
 Web zine register for course on `hyperlink.academy`
 
+![](aesthetic/assets/social-media.gif)
+
 It was created using [cool template](https://git.sr.ht/~zim/web-zine-01) created by [coolguy](https://coolguy.website)
 
 ## Building
